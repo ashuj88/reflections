@@ -3,4 +3,18 @@ A .git folder with metadata files is created. It contains information about the 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area contains files to be added to the repository- Working area contains all the files. Once files are comitted they make a repository.
- 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I only add the files modified to implement the logical change to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to implement something on a trial/temporary basis.
+
+How do the diagrams help you visualize the branch structure?
+They help us track what changes are we simulataneously making to the files in different branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines seperately developed codes into one. To keep track of changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+later 
