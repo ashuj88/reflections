@@ -7,3 +7,6 @@ I might be doing some modifications in the code at my local system. These might 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks make a copy of a someone else's public repository on Github to my Github. Clones make a copy of any repository on Github to my local. branch makes a copy of code present in my local.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps track to what has been modified to the nbaseline code taken from remote repo.
